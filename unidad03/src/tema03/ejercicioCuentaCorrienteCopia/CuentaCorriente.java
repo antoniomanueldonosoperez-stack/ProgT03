@@ -1,4 +1,4 @@
-package ejercicioCuentaCorriente;
+package tema03.ejercicioCuentaCorrienteCopia;
 
 public class CuentaCorriente {
 

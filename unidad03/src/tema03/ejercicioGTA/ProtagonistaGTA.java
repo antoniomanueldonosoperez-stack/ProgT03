@@ -1,4 +1,4 @@
-package ejercicioGTA;
+package tema03.ejercicioGTA;
 
 public class ProtagonistaGTA {
 
